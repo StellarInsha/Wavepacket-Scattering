@@ -245,5 +245,4 @@ Particularly the Chapter 2 discussions of:
 
 ---
 
-> **The equations tell us the transmission probability.
-> The wavepacket lets us watch it happen.**
+
