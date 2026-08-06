@@ -1,4 +1,4 @@
-# Quantum Scattering, One Wavepacket at a Time
+# Quantum Scattering
 
 *A numerical exploration of free propagation, reflection, transmission, and finite-well scattering using VEGAS Monte Carlo integration.*
 
